@@ -33,7 +33,7 @@ the watch CPU sets the observed frame rate.
 | Part | Source | Job |
 |---|---|---|
 | Watch app | [`watchapp/`](watchapp/) | A Connect IQ / Monkey C app that scans, connects, renders the screen and sends input. |
-| Firmware change | [`rz-x/Momentum-Firmware`](https://github.com/rz-x/Momentum-Firmware) on `feature/open-ble-pairing` | An opt-in setting that makes the existing Flipper RPC path reachable by this watch app. |
+| Firmware change | [`rz-x/momentum-firmware-for-garmin`](https://github.com/rz-x/momentum-firmware-for-garmin) on `feature/open-ble-pairing` | An opt-in setting that makes the existing Flipper RPC path reachable by this watch app. |
 
 The watch is a BLE central. It talks to a custom GATT serial service, sends Flipper input events and
 receives the composited screen framebuffer through the existing RPC protocol. There are no

@@ -83,7 +83,7 @@ serial endpoint and drives the RPC Gui service.
 
 ## Implementation status (2026-08-20)
 
-- **Firmware mod built and verified.** Momentum fork at `../Momentum-Firmware`, branch
+- **Firmware mod built and verified.** Momentum fork at `../momentum-firmware`, branch
   `feature/open-ble-pairing`, base `dev@d3f89df` (mntm-012). The opt-in toggle compiles and
   links into a full firmware image (`./fbt` → `firmware.elf` + `firmware.bin`, 205 flash pages,
   exit 0). Commit 41a9bb2a3. Five files: settings.h/.c, serial_profile.c, serial_service.c,

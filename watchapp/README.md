@@ -1,7 +1,7 @@
 # Flipper Remote - Connect IQ watch app (Phase 0 spike)
 
 Watch side of the two-part project. Talks to a Flipper Zero running **Momentum with
-"Open BLE Pairing" enabled** (see `../../Momentum-Firmware`, branch
+"Open BLE Pairing" enabled** (see `../../momentum-firmware`, branch
 `feature/open-ble-pairing`). Target dev device: **Garmin Descent Mk2**.
 
 ## Status

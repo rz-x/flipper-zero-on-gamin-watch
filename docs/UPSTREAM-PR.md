@@ -4,7 +4,7 @@
 submitting a security-relevant change that has never run would waste the maintainers' time and
 our credibility.
 
-Source branch: `rz-x/Momentum-Firmware:feature/open-ble-pairing`
+Source branch: `rz-x/momentum-firmware-for-garmin:feature/open-ble-pairing`
 Commits: `44b4a61`, `69817d5`, `a7d7cfb`, `968af52`
 
 ---
